@@ -10,8 +10,8 @@ you would get June data from your 2019 document.
 This is for JUNE ONLY.
 
 ## Table of Contents
-- [Global Data](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/global)
-- [Stormwater](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/storm)
+- [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global)
+- [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
 
 ---
-[home](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary)
+[home](https://uw-whitewater-sustainability.github.io/Utility%20Summary)
