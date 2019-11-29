@@ -22,7 +22,7 @@ Sometimes a month will have more than one $ amount. This is for different rates 
 ![steam4](src/global/steam4.png)
 
 ---
-**4.)** You must now enter the equation for the $/klb. In the final column of the first row, enter the “=” sign. Then, while that cell is still being edited, click on the B column of that row. Enter the ‘/’ key. Finally, click the D column of that row and press enter.  The final equation should be “=Bx/Dx” where x is the row number. 
+**4.)** You must now enter the equation for the $/klb. In the final column of the first row, enter the **=** sign. Then, while that cell is still being edited, click on the **B** column of that row. Enter the **/** key. Finally, click the **D** column of that row and press enter. The final equation should be “=Bx/Dx” where x is the row number. 
 
 ![gif1](src/global/gif1.gif)
 
@@ -30,7 +30,24 @@ Sometimes a month will have more than one $ amount. This is for different rates 
 
 ![gif2](src/global/gif2.gif)
 
-# Electricity
+## Electricity
+
+**1.)** Global electricity data comes from the UILITY document, Look for it at the top.
+
+IMAGE1
+
+**2.)** Copy the elctricity **Billing Period** from column **C** to its respecive spot in column **I** of the SUMMARY.
+
+IMAGE2
+
+**3.)** Copy the kWh and $ values and paste them into their respective place in the SUMMARY.
+
+IMAGE3
+
+**4.)** Do this for the rest of the FY.
+
+IMAGE4
+
 
 ---
 [back](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/data)
