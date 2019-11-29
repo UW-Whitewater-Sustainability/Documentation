@@ -45,5 +45,35 @@ footer{
 }
 
 @media print, screen and (max-width: 960px){
-  
+  div.wrapper{
+  width: 75vw;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-column-gap: 5px;
+  grid-template-areas:
+    "header section"
+    "header section"
+}
+
+header{
+  grid-area: header;
+  width: initial;
+  float: initial;
+  position: initial;
+}
+
+header img{
+  max-width: 75%;
+  height: auto;
+}
+
+section{
+  grid-area: section;
+  width: initial;
+  float: initial;
+  position: initial;
+}
+footer{
+  display: none;
+}
 }
