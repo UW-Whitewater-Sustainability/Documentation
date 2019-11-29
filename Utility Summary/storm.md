@@ -13,7 +13,7 @@ IMAGE1
 IMAGE2
 
 **3.)** You are going to need the $ amounts for both the CO-OP and the UWW stormwater as well as the Stormwater credits highlighted in yellow.
-Copy and paste these values into their respective place in the SUMMARY. (Match destination formatting for the highlighted value)
+Copy and paste these values into their respective place in the SUMMARY. (Make sure that the higlighted value gets entered as a positive numbe NOT A NEGATIVE like it is when you copy it.)
 
 IMAGE3
 
@@ -22,9 +22,15 @@ IMAGE3
 IMAGE4
 
 ---
+#### Hint:
+The charges for the Stormwater tend to stay the same, only changing once a year or so. This means that you can save time by only copying the unique values and dragging them down to fill in the rest.
+
+GIF1
+
+---
 
 #### NOTE:
-In the WATER document, the year in each spreadshet is referring to the FISCAL YEAR not the calendar year. This means that data for July of 2018 is in the **July 19** spreadsheet, as it is in fiscal year 2019.
+In the WATER document, the year in each spreadshet is referring to the FISCAL YEAR not the calendar year. This means that data for July of 2018 is in the **July 19** spreadsheet, as it is in Fiscal Year 2019.
 
 ---
 
