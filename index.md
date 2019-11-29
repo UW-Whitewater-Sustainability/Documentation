@@ -1,3 +1,3 @@
-# UWW Susainability Documentation
+# UWW Sustainability Documentation
 
-  - [Utility Report](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary)
+  - [Utility Report](https://uw-whitewater-sustainability.github.io/Utility%20Summary)
