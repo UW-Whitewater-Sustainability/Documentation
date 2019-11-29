@@ -4,23 +4,42 @@
 @import "{{ site.theme }}";
 
 div.wrapper{
+  width: 75vw;
   display: grid;
-  grid-template-columns: 30% 70%;
-  grid-column-gap: 10px;
+  grid-template-columns: 20% 80%;
+  grid-column-gap: 5px;
+  grid-template-areas:
+    "header section"
+    "header section"
 }
 
 header{
-  grid-column: 1;
+  grid-area: header;
   width: initial;
   float: initial;
   position: initial;
 }
+
+header img{
+  max-width: 75%;
+  height: auto;
+}
+
 section{
+  grid-area: section;
   width: initial;
   float: initial;
   position: initial;
-  grid-column: 2;
 }
 footer{
   display: none;
+}
+
+@media print, screen and (max-width: 860px){
+  div.wrapper{
+    grid-template-columns: auto;
+    grid-template: 
+      "section" 
+      "header"
+  }
 }
