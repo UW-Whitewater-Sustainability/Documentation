@@ -41,8 +41,8 @@ footer{
   div.wrapper{
     grid-template-columns: auto;
     grid-template: 
-      "header" 
       "section"
+      "header";
   }
 }
 
