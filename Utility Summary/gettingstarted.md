@@ -45,4 +45,4 @@ Here is a list of data you will need to enter along with what book it is found i
     - Gas (therms + $)
 
 ---
-[home](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary)
+[home](https://uw-whitewater-sustainability.github.io/Utility%20Summary)
