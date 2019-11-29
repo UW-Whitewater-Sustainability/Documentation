@@ -10,7 +10,7 @@ you would get June data from your 2019 document.
 This is for JUNE ONLY.
 
 ## Table of Contents
-- Global Data
+- [Global Data](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/global)
 
 ---
 [home](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary)
