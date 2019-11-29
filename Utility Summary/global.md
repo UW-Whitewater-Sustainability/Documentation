@@ -54,7 +54,6 @@ Sometimes a month will have more than one $ amount. This is for different rates 
 
 | | [Table of Contents](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data) | |
 |-------------|-------------|-------------|
-| [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) |
-| [Hall Data]()   | [Academic]()    | [Residence]()   |
-| [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Getting Started]() | |
-
+| [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Hall Data]() |
+| [Getting Started]() | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Academic]() |
+| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Residence]() |
