@@ -6,5 +6,6 @@ This page is designed to walk you through collecting and and tansposing energy d
     - Files you will need
     - Data to enter
   - [How/Where to find data](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/data)
-    - [GLOBAL DATA](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/global)
+    - [Global Data](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/global)
+    - [Stormwater](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/storm)
   - Recommended Steps
