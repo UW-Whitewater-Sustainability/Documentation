@@ -45,7 +45,11 @@ footer{
       "section"
   }
   header{
-    display: inline; 
+    display: inline-flex; 
+  }
+  header img{
+    max-height: 10vw;
+    width: auto;
   }
 }
 
@@ -62,11 +66,6 @@ footer{
   }
   header {
     padding-right: initial;
-    display: inline-flex;
-  }
-  header img{
-    max-height: 5vw;
-    width: auto;
   }
   header a small {
     display: initial;
