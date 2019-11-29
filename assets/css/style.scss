@@ -5,18 +5,22 @@
 
 div.wrapper{
   display: grid;
-  grid-template-columns: 20% 80%;
-  grid-template-areas: 
-    "header section"
-    "footer section";
+  grid-template-columns: 30% 70%;
+  grid-column-gap: 10px;
 }
 
 header{
-  grid-area: header;
+  grid-column: 1;
+  width: initial;
+  float: initial;
+  position: initial;
 }
 section{
-  grid-area: section;
+  width: initial;
+  float: initial;
+  position: initial;
+  grid-column: 2;
 }
 footer{
-  grid-area: footer; 
+  display: none;
 }
