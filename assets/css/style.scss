@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.wrapper{
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-column-gap: 10px;
+}
+
+header{
+  grid-column: 1;
+  width: initial;
+  float: initial;
+  position: initial;
+}
+section{
+  width: initial;
+  float: initial;
+  position: initial;
+  grid-column: 2;
+}
+footer{
+  display: none;
+}
