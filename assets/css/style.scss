@@ -44,36 +44,32 @@ footer{
   }
 }
 
-@media print, screen and (max-width: 959px){
-  div.wrapper{
-  width: 75vw;
-  display: grid;
-  grid-template-columns: 20% 80%;
-  grid-column-gap: 5px;
-  grid-template-areas:
-    "header section"
-    "header section"
-}
-
-header{
-  grid-area: header;
-  width: initial;
-  float: initial;
-  position: initial;
-}
-
-header img{
-  max-width: 75%;
-  height: auto;
-}
-
-section{
-  grid-area: section;
-  width: initial;
-  float: initial;
-  position: initial;
-}
-footer{
-  display: none;
-}
+@media print, screen and (max-width: 960px){
+  div.wrapper {
+    width: 75vw;
+    margin: initial;
+  }
+  header,
+  section,
+  footer {
+    position: initial;
+    width: initial;
+  }
+  header {
+    padding-right: initial;
+  }
+  section {
+    border: none;
+    border-width: initial;
+    padding: initial;
+    margin: initial;
+  }
+  header a small {
+    display: initial;
+  }
+  header ul {
+    position: initial;
+    right: none;
+    top: none;
+  }
 }
