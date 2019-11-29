@@ -2,3 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
+
+div.wrapper{
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-template-areas: 
+    "header section"
+    "footer section";
+}
+
+header{
+  grid-area: header;
+}
+section{
+  grid-area: section;
+}
+footer{
+  grid-area: footer; 
+}
