@@ -36,6 +36,6 @@ In the WATER document, the year in each spreadshet is referring to the FISCAL YE
 
 ---
 
-[back](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/data)
+[back](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data)
 
-[home](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary)
+[home](https://uw-whitewater-sustainability.github.io/Utility%20Summary)

@@ -51,6 +51,6 @@ Sometimes a month will have more than one $ amount. This is for different rates 
 
 ---
 
-[back](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary/data)
+[back](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data)
 
-[home](https://hunttj21.github.io/UWW-Documentation/Utility%20Summary)
+[home](https://uw-whitewater-sustainability.github.io/Utility%20Summary)
