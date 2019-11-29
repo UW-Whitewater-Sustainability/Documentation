@@ -19,6 +19,7 @@ All global data is going to come from the UTILITY workbook.
 
 #### NOTE: 
 Sometimes a month will have more than one $ amount. This is for different rates of steam charges. Always copy the sum total amount. See the selected cells in the figure below.
+
 ![steam4](src/global/steam4.png)
 
 ---
