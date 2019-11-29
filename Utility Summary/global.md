@@ -34,19 +34,19 @@ Sometimes a month will have more than one $ amount. This is for different rates 
 
 **1.)** Global electricity data comes from the UILITY document, Look for it at the top.
 
-IMAGE1
+![elec1](src/global/electric1.png)
 
 **2.)** Copy the elctricity **Billing Period** from column **C** to its respecive spot in column **I** of the SUMMARY.
 
-IMAGE2
+![elec2](src/global/electric2.png)
 
 **3.)** Copy the kWh and $ values and paste them into their respective place in the SUMMARY.
 
-IMAGE3
+![elec3](src/global/electric3.png)
 
 **4.)** Do this for the rest of the FY.
 
-IMAGE4
+![elec4](src/global/electric4.png)
 
 
 ---
