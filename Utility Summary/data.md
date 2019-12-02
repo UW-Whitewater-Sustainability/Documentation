@@ -10,8 +10,13 @@ you would get June data from your 2019 document.
 This is for JUNE ONLY.
 
 ## Table of Contents
-- [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global)
-- [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
+ - [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global)
+ - [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
+ - [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled)
+ - Residence Halls
+ - Academic Halls
+ - Other
+  
 
 ---
 [home](https://uw-whitewater-sustainability.github.io/Utility%20Summary)
