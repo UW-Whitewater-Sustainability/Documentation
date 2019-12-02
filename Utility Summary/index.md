@@ -12,4 +12,3 @@ This page is designed to walk you through collecting and and tansposing energy d
     - Residence Halls
     - Academic Halls
     - Other
-    - This is a big ol' test
