@@ -8,4 +8,7 @@ This page is designed to walk you through collecting and and tansposing energy d
   - [How/Where to find data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data)
     - [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global)
     - [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
-  - Recommended Steps
+    - [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled)
+    - Residence Halls
+    - Academic Halls
+    - Other
