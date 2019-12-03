@@ -23,7 +23,7 @@ ONLY use data from the "Meter Readings" tab.
 
 **4.)** Right click on the appropriate cell to paste in the SUMMARY document and choose "Paste - Transpose"
 
-![elec4](src/reshalls/elec4.png)
+![gif1](src/reshalls/gif1.gif)
 
 **5.)** Finally, copy and paste the June data from the current years ELECTRICITY document.
 
