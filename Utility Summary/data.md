@@ -13,7 +13,7 @@ This is for JUNE ONLY.
  - [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global)
  - [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
  - [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled)
- - Residence Halls
+ - [Residence Halls](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls)
  - Academic Halls
  - Other
   

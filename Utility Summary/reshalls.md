@@ -43,5 +43,9 @@ Make sure that when you open the ELECTRICITY document you choose the "Enable Edi
 
 ## Gas
 
-
+| | [Table of Contents](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data) | |
+|-------------|-------------|-------------|
+| [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Hall Data]() |
+| [Getting Started]() | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Academic]() |
+| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Residence](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls) |
 

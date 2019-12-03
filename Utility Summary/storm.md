@@ -40,4 +40,4 @@ In the WATER document, the year in each spreadshet is referring to the FISCAL YE
 |-------------|-------------|-------------|
 | [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Hall Data]() |
 | [Getting Started]() | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Academic]() |
-| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Residence]() |
+| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Residence](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls) |

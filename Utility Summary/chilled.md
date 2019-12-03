@@ -26,4 +26,4 @@ There will be no data from November to March. The chilled water plant is disable
 |-------------|-------------|-------------|
 | [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Hall Data]() |
 | [Getting Started]() | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Academic]() |
-| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Residence]() |
+| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Residence](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls) |
