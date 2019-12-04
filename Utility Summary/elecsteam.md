@@ -36,7 +36,7 @@ Make sure that when you open the DOCUMENT you choose the "Enable Editing" option
 
 | | [Table of Contents](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data) | |
 |-------------|-------------|-------------|
-| [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Hall Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls) |
+| [**Home**](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [**Global Data**](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [**Hall Data**](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls) |
 | [Getting Started]() | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Electricity & Steam](https://uw-whitewater-sustainability.github.io/Utility%20Summary/elecsteam) |
 | | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/water) |
 | | | [Natural Gas](https://uw-whitewater-sustainability.github.io/Utility%20Summary/gas) |
