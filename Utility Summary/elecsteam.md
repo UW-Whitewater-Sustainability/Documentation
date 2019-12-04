@@ -23,11 +23,13 @@ Electricity and steam (E+S) data are formatted exactly the same, so for this sec
 **5.)** Finally, copy and paste the June data from the current years DOCUMENT.
 
 ![elec5](src/reshalls/elec5.png)
+
 ![elec6](src/reshalls/elec6.png)
 
 ---
 #### NOTE:
 ![elec7](src/reshalls/elec7.png)
+
 Make sure that when you open the DOCUMENT you choose the "Enable Editing" option if you are prompted. If you do not, the "Paste - Transpose" option will not appear.
 
 ---

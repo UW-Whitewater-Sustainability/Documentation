@@ -26,6 +26,7 @@ Water data is going to come from the WATER document.
 ---
 #### NOTE:
 ![elec7](src/reshalls/elec7.png)
+
 Make sure that when you open the WATER document you choose the "Enable Editing" option if you are prompted. If you do not, the formula at the end of the row will not copy.
 
 ---
