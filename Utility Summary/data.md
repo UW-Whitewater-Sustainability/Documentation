@@ -11,12 +11,18 @@ This is for JUNE ONLY.
 
 ## Table of Contents
  - [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global)
- - [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
- - [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled)
- - [Residence Halls](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls)
- - Academic Halls
- - Other
+   - [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm)
+   - [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled)
+ - [Academic + Residence Halls](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls)
+   - [Electricity & Steam](https://uw-whitewater-sustainability.github.io/Utility%20Summary/elecsteam)
+   - [Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/water)
+   - [Natural Gas](https://uw-whitewater-sustainability.github.io/Utility%20Summary/gas)
   
 
 ---
-[home](https://uw-whitewater-sustainability.github.io/Utility%20Summary)
+| | [Table of Contents](https://uw-whitewater-sustainability.github.io/Utility%20Summary/data) | |
+|-------------|-------------|-------------|
+| [Home](https://uw-whitewater-sustainability.github.io/Utility%20Summary) | [Global Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/global) | [Hall Data](https://uw-whitewater-sustainability.github.io/Utility%20Summary/reshalls) |
+| [Getting Started]() | [Stormwater](https://uw-whitewater-sustainability.github.io/Utility%20Summary/storm) | [Electricity & Steam](https://uw-whitewater-sustainability.github.io/Utility%20Summary/elecsteam) |
+| | [Chilled Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/chilled) | [Water](https://uw-whitewater-sustainability.github.io/Utility%20Summary/water) |
+| | | [Natural Gas](https://uw-whitewater-sustainability.github.io/Utility%20Summary/gas) |

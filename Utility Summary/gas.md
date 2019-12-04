@@ -1,24 +1,30 @@
-# Chilled Water
+# Natural Gas
+Natural gas data is going to come from the EOM workbook.
 
-**1.)** Chilled water comes from the CHILLED WATER document. You will be using the total values from sections 1-3. NOT In the order they appear.
+---
 
-![img1](src/chilled/img1.png)
+**1.)** Go to the July tab for the desired FY.
 
-**2.)** Copy the Total Cooling BTU’s, Steam Usage, and KWh values and paste them into their respective place in the SUMMARY.
-  - **Section 1** goes in **Column C**
-  - **Section 2** goes in **Column E**
-  - **Section 3** goes in **Column B**
+![gas0](src/reshalls/gas0.png)
 
-![img2](src/chilled/img2.png)
+**2.)** Select and copy the therm and $ values for the current building. 
 
-**3.)** Do this for the rest of the FY.
+![gas1](src/reshalls/gas1.png)
 
-![img3](src/chilled/img3.png)
+**3.)** Paste the values into their respective place in the SUMMARY.
+
+![gas2](src/reshalls/gas2.png)
+
+**4.)** Do this for the rest of the FY.
+
+![gas3](src/reshalls/gas3.png)
 
 ---
 
 #### NOTE:
-There will be no data from November to March. The chilled water plant is disabled during the winter. 
+Some natural gas data is split up between two spots for financial reasons. These rows will be highlighted orange to signify this. For these cases, you MUST add the two rows to get a total value for therms and cost.
+
+![gas4](src/reshalls/gas4.png)
 
 ---
 

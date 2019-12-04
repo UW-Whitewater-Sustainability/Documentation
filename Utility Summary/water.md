@@ -1,24 +1,32 @@
-# Chilled Water
-
-**1.)** Chilled water comes from the CHILLED WATER document. You will be using the total values from sections 1-3. NOT In the order they appear.
-
-![img1](src/chilled/img1.png)
-
-**2.)** Copy the Total Cooling BTU’s, Steam Usage, and KWh values and paste them into their respective place in the SUMMARY.
-  - **Section 1** goes in **Column C**
-  - **Section 2** goes in **Column E**
-  - **Section 3** goes in **Column B**
-
-![img2](src/chilled/img2.png)
-
-**3.)** Do this for the rest of the FY.
-
-![img3](src/chilled/img3.png)
+# Water
+Water data is going to come from the WATER document.
 
 ---
 
+**1.)** Each month's data comes from its **Detail Worksheet** NOT Recap&Summary.
+
+![img1](src/storm/img1.png)
+
+**2.)** Data is spread out between two different sections. Residence halls are at the top of the document and everything else is below them.
+
+![water1](src/reshalls/water1.png)
+
+**3.)** Select and copy the row for the current building. 
+
+![water2](src/reshalls/water2.png)
+
+**4.)** Paste the values into their respective place in the SUMMARY.
+
+![water3](src/reshalls/water3.png)
+
+**5.)** Do this for the rest of the FY.
+
+![water4](src/reshalls/water4.png)
+
+---
 #### NOTE:
-There will be no data from November to March. The chilled water plant is disabled during the winter. 
+![elec7](src/reshalls/elec7.png)
+Make sure that when you open the WATER document you choose the "Enable Editing" option if you are prompted. If you do not, the formula at the end of the row will not copy.
 
 ---
 
