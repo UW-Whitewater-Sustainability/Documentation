@@ -41,6 +41,10 @@ footer{
   display: none;
 }
 
+ul{
+  margin-bottom: 0;
+}
+
 @media print, screen and (max-width: 720px){
   div.wrapper{
     grid-template-columns: auto;
