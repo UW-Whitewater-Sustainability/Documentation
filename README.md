@@ -6,7 +6,7 @@ The documentation webpage can be accessed at:
 
 # Creating/Editing Documentation
 Working with documentation on GitHub is very easy, once you understand how it works. Below is a quick overview of how the 
-website works. More in depth information regarding editing the documentation and the **Markdown** language can be found in [the wiki.]()
+website works. More in depth information regarding editing the documentation and the **Markdown** language can be found in [the wiki.](https://github.com/UW-Whitewater-Sustainability/uw-whitewater-sustainability.github.io/wiki)
 
 ## How does it work?
 [https://uw-whitewater-sustainability.github.io](https://uw-whitewater-sustainability.github.io)
