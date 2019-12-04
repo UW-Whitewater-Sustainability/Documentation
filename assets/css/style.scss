@@ -45,6 +45,19 @@ ul{
   margin-bottom: 0;
 }
 
+th a{
+  font-size: large;
+}
+
+a strong{
+  color: #267CB9;
+  font-weight: 700;
+}
+
+a:hover strong{
+  font-size: larger;
+}
+
 @media print, screen and (max-width: 720px){
   div.wrapper{
     grid-template-columns: auto;
