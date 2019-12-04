@@ -23,7 +23,7 @@ Sometimes a month will have more than one $ amount. This is for different rates 
 ![steam4](src/global/steam4.png)
 
 ---
-**4.)** You must now enter the equation for the $/klb. In the final column of the first row, enter the **=** sign. Then, while that cell is still being edited, click on the **B** column of that row. Enter the **/** key. Finally, click the **D** column of that row and press enter. The final equation should be “=Bx/Dx” where x is the row number. 
+**4.)** You must now enter the equation for the $/klb. In the final column of the first row, enter the **=** sign. Then, while that cell is still being edited, click on the **B** column of that row. Enter the **/** key. Finally, click the **D** column of that row and press enter. The final equation should be `=Bx/Dx` where x is the row number. 
 
 ![gif1](src/global/gif1.gif)
 
