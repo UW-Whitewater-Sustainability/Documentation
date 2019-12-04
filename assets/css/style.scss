@@ -45,6 +45,15 @@ ul{
   margin-bottom: 0;
 }
 
+/* Table settings*/
+table{
+  width: auto;
+}
+
+tr{
+  height: 37px;
+}
+
 hr{
   margin: 20px 0 20px 0;
 }
@@ -53,6 +62,9 @@ th a{
   font-size: large;
 }
 
+td{
+  width: 150px;
+}
 a strong{
   color: #267CB9;
   font-weight: 700;
@@ -61,6 +73,8 @@ a strong{
 a:hover strong{
   font-size: larger;
 }
+
+/* end table settings */
 
 @media print, screen and (max-width: 720px){
   div.wrapper{
